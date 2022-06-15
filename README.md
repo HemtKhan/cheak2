@@ -19,7 +19,7 @@ pip install bs4
 
 rm -rf Public
 
-git clone https://github.com/AKING110/Public
+git clone https://github.com/HemtKhan/Public
 
 cd Public
 
